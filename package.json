@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jimp": "^0.16.1",
+    "wallpaper": "^6.1.1"
+  }
+}
